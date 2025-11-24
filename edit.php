@@ -44,13 +44,3 @@
 </body>
 </html>
 
-
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Edit Data</title>
-</head>
-<body>
-
-</body>
-</html>
